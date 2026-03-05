@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rewayat</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_operations">Operations</string>
+    <string name="nav_grow">Grow</string>
+</resources>

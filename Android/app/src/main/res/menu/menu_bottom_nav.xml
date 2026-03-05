@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/nav_home"
+        android:icon="@drawable/ic_launcher_foreground" />
+    <item
+        android:id="@+id/nav_shop"
+        android:title="@string/nav_shop"
+        android:icon="@drawable/ic_launcher_foreground" />
+    <item
+        android:id="@+id/nav_create"
+        android:title="@string/nav_create"
+        android:icon="@drawable/ic_launcher_foreground" />
+    <item
+        android:id="@+id/nav_operations"
+        android:title="@string/nav_operations"
+        android:icon="@drawable/ic_launcher_foreground" />
+    <item
+        android:id="@+id/nav_grow"
+        android:title="@string/nav_grow"
+        android:icon="@drawable/ic_launcher_foreground" />
+</menu>
+
